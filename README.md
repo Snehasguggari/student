@@ -1,4 +1,4 @@
 # student
 this is my first git repository
 <br>
-author-sneha
+author-snehas s guggari
